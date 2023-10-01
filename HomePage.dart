@@ -1,9 +1,4 @@
-import 'package:beauty_queen/View/widgets/CustomCardWidget.dart';
-import 'package:beauty_queen/View/widgets/CustomCircleStack.dart';
-import 'package:beauty_queen/View/widgets/ScrollableContainerList.dart';
-import 'package:beauty_queen/constants.dart';
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
